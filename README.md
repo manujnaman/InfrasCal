@@ -1,3 +1,5 @@
+Manuj: Installed GTest and sqllite3 using apt-get. Had to comment out directives from gpl.h
+
 InfrasCal
 =========
 
